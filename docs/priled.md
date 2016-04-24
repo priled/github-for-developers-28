@@ -6,3 +6,4 @@ This is a bio of Dmitri Prilepski
 - like programming
 - favorite color is brown
 - wife name is Olga
+- daughter name is Vera
